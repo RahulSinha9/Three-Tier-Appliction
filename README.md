@@ -130,5 +130,5 @@ eksctl delete cluster --name three-tier-cluster --region us-west-2
 ```
 
 
----
+--
 Happy Learning! 🚀👨‍💻👩‍💻
