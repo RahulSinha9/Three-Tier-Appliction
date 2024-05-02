@@ -6,7 +6,7 @@ The challenge involves deploying a Three-Tier Web Application using ReactJS, Nod
 
 **Get The Challenge here**
 
-[![YouTube Video](https://img.youtube.com/vi/tvWQRTbMS1g/maxresdefault.jpg)](https://youtu.be/tvWQRTbMS1g?si=eki-boMemxr4PU7-)
+[![YouTube Video](https://cdn.hashnode.com/res/hashnode/image/upload/v1714498997444/bfef4319-bcbb-42bd-ade9-b5afcd5f83a9.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp)](https://rahuldevops99.hashnode.dev/three-tier-application-deployment-on-kubernetes)
 
 ## Prerequisites
 - Basic knowledge of Docker, and AWS services.
